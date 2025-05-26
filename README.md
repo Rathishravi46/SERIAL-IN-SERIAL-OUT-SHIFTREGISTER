@@ -1,7 +1,11 @@
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
 Name: Rathish R
+
 Reg no: 24901297
+
+Date : 09.05.25
+
 
 **AIM:**
 
